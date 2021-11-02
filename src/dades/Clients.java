@@ -16,5 +16,7 @@ public class Clients implements Serializable {
         this.contrassenya=contrassenya;
 
     }
-
+    public Clients copia() {
+        return (new Clients(this.nomUsuari, this.contrassenya));
+    }
 }

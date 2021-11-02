@@ -15,4 +15,38 @@ public class Document implements Serializable {
         this.editadors=editadors;
         this.text=text;
     }
+
+    //getters i setters
+
+
+    public LlistaClients getEditadors() {
+        return editadors;
+    }
+
+    public String getIdentificador() {
+        return identificador;
+    }
+
+    public void setEditadors(LlistaClients editadors) {
+        this.editadors = editadors;
+    }
+
+    public void setIdentificador(String identificador) {
+        this.identificador = identificador;
+    }
+
+
+    @Override
+    public String toString() {
+        return "Document{" +
+                "identificador='" + identificador + '\'' +
+                ", editadors=" + editadors +
+                ", text='" + text + '\'' +
+                '}';
+    }
+
+    public Document copia() {
+        return (new Document(this.identificador, this.editadors, this.text));
+    }
 }
+

@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba7c5fcf-ef40-4a0c-95eb-f4152821ff35" name="Default Changelist" comment="" />
+    <list default="true" id="08bd7ee2-4237-4376-b95a-2d478464b8ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dades/Clients.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dades/Clients.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dades/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dades/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dades/LlistaClients.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dades/LlistaClients.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dades/LlistaDocuments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dades/LlistaDocuments.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +38,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -21,7 +48,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="20LyWccqXd5peYgULQfvJSrQdrw" />
+  <component name="ProjectId" id="20M6NvNyWZxMhGCqi6HbmiY1Rq1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,10 +57,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -51,38 +78,52 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ba7c5fcf-ef40-4a0c-95eb-f4152821ff35" name="Default Changelist" comment="" />
-      <created>1635838196289</created>
+      <changelist id="08bd7ee2-4237-4376-b95a-2d478464b8ef" name="Default Changelist" comment="" />
+      <created>1635842074283</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1635838196289</updated>
-      <workItem from="1635838197337" duration="3251000" />
+      <updated>1635842074283</updated>
+      <workItem from="1635842075351" duration="97000" />
+      <workItem from="1635842285675" duration="2286000" />
+      <workItem from="1635872406100" duration="15000" />
+      <workItem from="1635872632028" duration="2192000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="249" y="0" key="#Project_Structure" timestamp="1635838208635">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1635842291676">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1635838208635" />
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1635840826174">
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1635842291676" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1635842911348">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1635840826174" />
-    <state x="531" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1635840570797">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1635842911348" />
+    <state x="531" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1635873501949">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="531" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1635840570797" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1635840268247">
+    <state x="531" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1635873501949" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1635872321078">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1635840268247" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1635840824121">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1635872321078" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635872826892">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1635840824121" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1635872826892" />
   </component>
 </project>
